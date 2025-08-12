@@ -1,0 +1,14 @@
+# Core
+python-dotenv==1.0.1
+streamlit==1.35.0
+PyPDF2==3.0.1
+python-docx==1.1.0
+
+# LangChain & Azure OpenAI
+langchain==0.2.6
+langchain-openai==0.1.8
+faiss-cpu==1.8.0
+
+# Utilities
+pydantic==2.7.4
+pydantic-core==2.18.4
